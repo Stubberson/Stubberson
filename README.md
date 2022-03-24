@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stubberson
 - 👀 I’m interested in Blockchain technology
-- 🌱 I’m currently learning about Blockchain and Programming
+- 🌱 I’m currently learning about Programming and figuring out how to use AR in city planning
 
 
 <!---
