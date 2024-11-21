@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Stubberson
 - 👀 I’m interested in all sorts of stuff
-- 🌱 I’m currently learning about Programming and figuring out how to use AR in city planning
+- 🌱 I’m currently learning programming and how to use GitHub
 
 
 <!---
