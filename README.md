@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Stubberson
 - 👀 I’m interested in GIS and machine learning
-- 🌱 I’m currently learning how to use GitHub
 
 
 <!---
